@@ -1,6 +1,10 @@
 # Local .terraform directories
 **/.terraform/*
+<<<<<<< HEAD
 .terraform.lock.hcl
+=======
+
+>>>>>>> 831e2ec (updating all files)
 # .tfstate files
 *.tfstate
 *.tfstate.*
@@ -32,3 +36,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+<<<<<<< HEAD
+=======
+*.terraform.lock.hcl
+>>>>>>> 831e2ec (updating all files)
